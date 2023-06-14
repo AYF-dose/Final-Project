@@ -12,8 +12,6 @@ function App() {
         <Link to="/">
         &nbsp; 
         <section class="wrapper">
-      
-
       <div class="container">
         <div class="grid-cols-2">
           <div class="grid-item-1">
@@ -30,7 +28,6 @@ function App() {
     <br/>
         </Link>
       </div>
-      
     <div class="container1"> 
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/V3jfLetEtrI"></iframe>
 </div>
@@ -38,7 +35,6 @@ function App() {
 <br/><br/>
 <hr></hr>
 <br/><br/>
-
       <main>
         <Routes>
           <Route path="/" element={<Home data={data} />} />
