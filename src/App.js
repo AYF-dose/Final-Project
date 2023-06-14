@@ -12,6 +12,8 @@ function App() {
         <Link to="/">
         &nbsp; 
         <section class="wrapper">
+
+          
       <div class="container">
         <div class="grid-cols-2">
           <div class="grid-item-1">
